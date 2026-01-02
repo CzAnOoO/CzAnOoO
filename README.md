@@ -1,7 +1,7 @@
 # Hi there👋 I'm Zhengan Chen
 
 📚 **ICT Engineering Student** @ [KTH Royal Institute of Technology](https://www.kth.se/)  
-Currently in my **2nd year** of *Civilingenjörsutbildning i informationsteknik* (Master of Science in Information Technology).  
+Currently in my **3nd year** of *Civilingenjörsutbildning i informationsteknik* (Master of Science in Information Technology).  
 💻 Passionate about software development, machine learning, and building scalable systems.  
 
 ---
@@ -21,7 +21,7 @@ Explore my repositories to see projects like:
 ---
 
 ### 📬 Get in Touch
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 📧 Email: [contact me](mailto:zhenganc@ug.kth.se)  
 <!--
 - 💼 LinkedIn:
 - 🌐 Personal Website: 
